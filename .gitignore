@@ -1,0 +1,4 @@
+data/videos/
+data/annotation.csv
+models/lipreading_model.h5
+__pycache__/
