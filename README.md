@@ -49,7 +49,7 @@ mlrd20-lipreading-model/
 ├── src/                   # Source code
 │   ├── train.py           # Training pipeline
 │   ├── model.py           # Model architecture
-│   ├── dataset.py         # PyTorch Dataset loader
+│   ├── dataset.py         # Dataset loader
 ├── LICENSE                # MIT License
 └── README.md              # This file
 ```
